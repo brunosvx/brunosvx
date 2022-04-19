@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * 🏡 I’m from Brazil.
 
-* 📫 How to reach me brunosv137@gmail.com
+* 📫 How to reach me: brunosv137@gmail.com
 
 * 📚 Studying NodeJS
 
