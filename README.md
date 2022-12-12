@@ -2,7 +2,7 @@
 
 :computer: Back-end Developer!
 
-📧brunosv137@hotmail.com
+📧brunosv137@gmail.com
 
 Discord: ! Bruno#0781
 
