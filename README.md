@@ -2,10 +2,6 @@
 
 :computer: Back-end Developer!
 
-📧brunosv137@gmail.com
-
-Discord: ! Bruno#0781
-
 👨‍💻  <strong>Skills:</strong> JavaScript, Nodejs, Express, MongoDB, MySQL, Git, Github, React (Básico), HTML/CSS (Básico)  <br />
 
 <hr>
